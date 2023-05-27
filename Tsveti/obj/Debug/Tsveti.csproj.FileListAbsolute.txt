@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Tsveti\Tsveti\obj\Debug\Tsveti.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tsveti\Tsveti\obj\Debug\Tsveti.Form1.resources
+C:\Users\Admin\source\repos\Tsveti\Tsveti\obj\Debug\Tsveti.Properties.Resources.resources
+C:\Users\Admin\source\repos\Tsveti\Tsveti\obj\Debug\Tsveti.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Tsveti\Tsveti\obj\Debug\Tsveti.csproj.CoreCompileInputs.cache
